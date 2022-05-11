@@ -1,6 +1,6 @@
 ### Oi 👋 Meu nome é Daniel
 Sou estudante de ciência de dados 💻, sempre buscando aprender novas tecnologias que envolvem esse mundo 📊. 
-Tenho 19 anos. Um amante do futebol ⚽  e um bom jogador de games 🎮.
+Tenho 20 anos. Um amante do futebol ⚽  e um bom jogador de games 🎮.
 
 <div align="center">
   <a href="https://github.com/Danielzinho-create">
